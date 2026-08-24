@@ -1,0 +1,6 @@
+{
+  "name": "Heart Disease Prediction System",
+  "description": "User-friendly machine learning heart disease prediction and clinical risk assessment system with automated patient triage, multi-model evaluation, explainability, and metaheuristic optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
